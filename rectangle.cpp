@@ -44,6 +44,7 @@ void rectangle() {
     cout << "Площадь: " << area << endl;
     cout << "Длина диагонали: " << diagonal << endl;
 }
+//ssss
 
 
 int main() {
